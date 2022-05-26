@@ -43,4 +43,4 @@ should gather all that edge-case knowledge into one library.
 Besides `UNUSED`, the `unused.h` header only defines identifiers that
 start with `UNUSED_`.
 
-`unused.h` does not include any other headers.
+`unused.h` does not include any headers.
